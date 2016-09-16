@@ -1,0 +1,164 @@
+body{
+	background-image: url("SuicideS-photo/Suicide-back.jpg");
+	height: 500px;
+
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#HeaderImg{
+	width: 300px;
+	height: 350px;
+ 	border: 7px solid white;
+ 	border-radius: 60px;
+ 	border-color: rgba(160,98,172,.75);
+ 	background-position: center;
+	background-size: cover;
+	margin-top: 3%;
+}
+header{
+	text-align: center;
+	background-image: url("SuicideS-photo/suicide-cast.jpg");
+	background-position: center;
+	background-size: cover;
+	height: 550px;
+	width: 1200px;
+	padding-top: 20px;
+	border-radius: 60px;
+ 	border-color: rgba(160,98,172,.75);
+ 	margin-left: 5%;
+}
+#title1{
+	max-height: 100px;
+	max-width: 600px;
+	font-size: 520%;
+	font-family: normal;
+	border: 7px solid white;
+	border-color: rgba(255,112,255,.7);
+	color: rgba(160,98,172,1);
+	margin-left: 27%;
+	margin-right: 23%;
+	background-color: rgba(30,243,179,.4);
+	margin-top: 5%;
+	font-weight: bolder;
+}
+#box{
+border-radius: 20px;
+border:3px solid white;
+border-color: rgba(255,112,255,.7);
+max-height: 400px;
+max-width: 600px;
+text-align: center;
+margin-left: 27%;
+padding-top: 10px;
+padding-bottom: 10px;
+background-color: rgba(30,243,179,.4);
+color: rgba(160,98,172, 1);
+margin-top: 10%;
+}
+strong{
+	font-size: 130%;
+}
+h3{
+	border: 2px solid white;
+	border-color: rgba(255,112,255,.7);
+	background-color: rgba(30,243,179,.7);
+	text-decoration: underline;
+	font-weight: bolder;
+}
+#info{
+	text-align: left;
+	font-size: 130%;
+}
+#film{
+	font-size: 140%;
+	margin: 10px 5%;
+	padding: 5px;
+	text-align: center;
+}
+.hom{
+	text-align: left;
+	margin-left: 40px;
+}
+h4{
+	display: inline;
+	text-align:center; 
+	word-spacing: 950px;
+	color: rgba(160,98,172, 1);
+	font-size: 200%;
+}
+#menu{
+	width: 1000px;
+	height: 40px;
+	background-color: rgba(30,243,179,1);
+	margin-left: 150px;
+	padding-top: 30px;
+	border-radius: 30px;
+}
+#cast{
+	font-size: 150%;
+	margin-right: 15%;
+	text-align: center;
+}
+#unorder{
+	text-align: absolute;
+	text-align: left;
+	color: rgba(160,98,172, 1);
+	font-size: 150%;
+	border: 3px solid white;
+	border-color: rgba(255,112,255,.7);
+	background-color: rgba(211,48,299,.9);
+    margin-left: 29.4%;
+	font-style: italic;
+	width: 500px;
+	background-image: url("SuicideS-photo/suicide-group.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+
+}
+li{
+	font-weight: bold;
+}
+#paragraph{
+	border: 3px solid white;
+	border-color: rgba(255,112,255,.7);
+	background-color: rgba(227,111,255, .7);
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.logo1{
+	display: inline-block;
+	float: right;
+	margin: 2% 4% 2% 2%;
+	border-radius: 20px;
+	border: 5px solid white;
+	border-color: rgba(58, 249, 211, .8);
+}
+#p1{
+	color: rgba(208,213,62,1);
+	font-size: 140%;
+}
+#p2{color: rgba(14,117,161,1);
+	font-size: 145%;}
+#p3{color: rgba(242,74,62,1);
+	font-size: 141%;}
+.parag{
+	text-align: center;
+	padding-left: 15%;
+	padding-right: 15%;
+	color: white;
+	font-size: 120%;
+	font-style: italic;
+	font-weight: bolder;
+	text-transform: capitalize;
+}
+footer{
+text-align: right;
+font-family: sans-serif;
+color:white;
+}
+
